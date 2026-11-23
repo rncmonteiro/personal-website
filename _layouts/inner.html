@@ -2,14 +2,15 @@
 layout: default
 ---
 {% assign current = site.data.navigation | where: 'key', page.nav_key | first %}
+{% assign contents = current.contents | default: current.sections %}
 <header class="page-heading">
   <h1>{{ current.title }}</h1>
   <p>{{ current.summary }}</p>
 </header>
-<div class="reading-layout{% if current.sections.size == 1 %} single-section{% endif %}">
-  {% if current.sections.size > 1 %}
+<div class="reading-layout{% if contents.size == 1 %} single-section{% endif %}">
+  {% if contents.size > 1 %}
   <nav class="contents" aria-label="On this page">
-    {% for section in current.sections %}
+    {% for section in contents %}
     <a href="#{{ section.id }}">{{ section.label }}</a>
     {% endfor %}
   </nav>

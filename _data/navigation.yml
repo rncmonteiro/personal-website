@@ -26,6 +26,15 @@
   sections:
   - id: team
     label: Research Team
+  contents:
+  - id: heading-post-doctoral-and-post-graduate-researchers
+    label: Post-doctoral and Post-graduate Researchers
+  - id: heading-phd-students
+    label: PhD Students
+  - id: heading-master-students
+    label: Master Students
+  - id: heading-alumni
+    label: Alumni
 - key: publications
   title: Publications
   url: publications.html

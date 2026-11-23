@@ -32,9 +32,10 @@
         {% for item in site.data.navigation offset:1 %}
         <article class="tile tile-{{ item.key }}">
   <a class="tile-title" href="{{ item.url }}">{{ item.title }}</a>
-  {% if item.sections.size > 1 %}
+  {% assign contents = item.contents | default: item.sections %}
+          {% if contents.size > 1 %}
     <ul class="tile-sections">
-      {% for section in item.sections %}
+      {% for section in contents %}
       <li><a href="{{ item.url }}#{{ section.id }}">{{ section.label }}</a></li>
       {% endfor %}
     </ul>
