@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% assign current = site.data.navigation | where: 'key', page.nav_key | first %}
+<header class="page-heading">
+  <h1>{{ current.title }}</h1>
+  <p>{{ current.summary }}</p>
+</header>
+<div class="reading-layout{% if current.sections.size == 1 %} single-section{% endif %}">
+  {% if current.sections.size > 1 %}
+  <nav class="contents" aria-label="On this page">
+    {% for section in current.sections %}
+    <a href="#{{ section.id }}">{{ section.label }}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+  <div class="cv-content">
+    {% for section in current.sections %}
+      {% assign source = section.id | prepend: 'content/' | append: '.md' %}
+      {% capture markdown %}{% include {{ source }} %}{% endcapture %}
+      <section class="cv-section" id="{{ section.id }}" aria-label="{{ section.label }}">
+        {{ markdown | markdownify }}
+      </section>
+    {% endfor %}
+  </div>
+</div>

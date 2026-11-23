@@ -3,3 +3,5 @@ markdown: kramdown
 exclude:
   - README.md
   - tools
+kramdown:
+  auto_id_prefix: heading-

@@ -1,0 +1,58 @@
+---
+- key: home
+  title: Home
+  url: index.html
+  summary: 
+  sections: []
+- key: about
+  title: About
+  url: about.html
+  summary: Academic profile, current roles, education, prizes and languages
+  sections:
+  - id: profile-details
+    label: Academic profile
+  - id: current-roles
+    label: Current Roles
+  - id: education
+    label: Education
+  - id: awards
+    label: Prizes and distinctions
+  - id: languages
+    label: Languages
+- key: team
+  title: Research Team
+  url: research-team.html
+  summary: Researchers, PhD Students and Alumni
+  sections:
+  - id: team
+    label: Research Team
+- key: publications
+  title: Publications
+  url: publications.html
+  summary: Journal articles and conference papers
+  sections:
+  - id: journal-articles
+    label: Journal articles
+  - id: conference-papers
+    label: Conference proceedings papers
+- key: projects
+  title: Projects
+  url: projects.html
+  summary: Funded research projects
+  sections:
+  - id: projects
+    label: Research projects
+- key: teaching
+  title: Teaching
+  url: teaching.html
+  summary: Academic courses and lectures
+  sections:
+  - id: teaching
+    label: Teaching
+- key: activities
+  title: Keynote lectures and presentations
+  url: activities.html
+  summary: Invited talks and keynote lectures
+  sections:
+  - id: lectures
+    label: Keynote lectures and presentations

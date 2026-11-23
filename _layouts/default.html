@@ -1,66 +1,54 @@
 <!doctype html>
-
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Academic curriculum vitae of Ricardo Monteiro." name="description"/><title>Ricardo Monteiro — Personal website</title><link href="styles.css" rel="stylesheet"/></head>
-<body id="top"><header class="site-header"><div class="header-inner"><button aria-controls="site-nav" aria-expanded="false" class="menu-toggle">Menu</button><nav id="site-nav"><a href="#profile">Profile</a><a href="#current-roles">Current Roles</a><a href="#education">Education</a><a href="#team">Research Team</a><a href="#teaching">Teaching</a><a href="#projects">Projects</a><a href="#journal-articles">Publications</a></nav></div></header>
-<main id="top"><section class="intro" id="profile"><div class="intro-copy"><h1>Ricardo Monteiro</h1><div class="affiliation-list">
-  <div class="affiliation-row">
-    <a class="affiliation-logo" href="https://www.iusspavia.it/" target="_blank" rel="noopener noreferrer" aria-label="Visit University School for Advanced Studies IUSS Pavia website"><img src="assets/iuss-logo-white.png" alt="IUSS Pavia logo"/></a>
-    <div class="affiliation-details">
-      <p>Associate Professor, University School for Advanced Studies IUSS Pavia</p>
-      <a href="mailto:ricardo.monteiro@iusspavia.it">ricardo.monteiro@iusspavia.it</a>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Academic website of Ricardo Monteiro, Associate Professor at IUSS Pavia.">
+  <title>{% unless page.nav_key == 'home' %}{{ page.title }} · {% endunless %}Ricardo Monteiro</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body id="top" class="page-{{ page.nav_key }}">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="wordmark" href="index.html">Ricardo Monteiro</a>
+      <nav aria-label="Main navigation">
+        {% for item in site.data.navigation %}
+        <a href="{{ item.url }}"{% if item.key == page.nav_key %} aria-current="page"{% endif %}>{{ item.title }}</a>
+        {% endfor %}
+      </nav>
     </div>
-  </div>
-  <div class="affiliation-row">
-    <a class="affiliation-logo resisk-logo" href="https://www.resisk.com/" target="_blank" rel="noopener noreferrer" aria-label="Visit RESISK website">
-      <img src="assets/resisk-logo.svg" alt="RESISK logo"/>
-    </a>
-    <div class="affiliation-details">
-      <p>Partner and Co-Founder, Research Engineering for Sustainable Risk Solutions</p>
-      <a href="mailto:ricardo.monteiro@resisk.com">ricardo.monteiro@resisk.com</a>
-    </div>
-  </div>
-</div></div><div class="intro-side"><img alt="Portrait of Ricardo Monteiro" class="profile-photo" height="240" src="assets/portrait.jpg" width="240"/><div class="intro-note"><span>Research areas</span><p>Earthquake engineering<br/>Structural and seismic risk<br/>Assessment and retrofitting<br/>Risk-informed decision-making</p></div></div></section>
-<div class="mobile-jump"><label for="section-jump">Jump to a section</label><select id="section-jump"><option value="">Select section…</option><option value="profile-details">Academic profile</option><option value="current-roles">Current Roles</option><option value="education">Education</option><option value="team">Research Team</option><option value="teaching">Teaching</option><option value="projects">Research projects</option><option value="journal-articles">Journal articles</option><option value="conference-papers">Conference papers</option><option value="lectures">Keynote lectures and presentations</option><option value="awards">Prizes</option><option value="languages">Languages</option></select></div><div class="layout"><aside class="sidebar" aria-label="CV contents"><p class="eyebrow">CONTENTS</p><a href="#current-roles">Current Roles</a><a href="#education">Education</a><a href="#team">Research Team</a><a href="#teaching">Teaching</a><a href="#projects">Research projects</a><a href="#journal-articles">Journal articles</a><a href="#conference-papers">Conference papers</a><a href="#lectures">Keynote lectures and presentations</a><a href="#awards">Prizes</a></aside><div class="content"><section class="cv-section markdown-section" id="profile-details">
-{% capture md_section %}{% include content/profile-details.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="current-roles">
-{% capture md_section %}{% include content/current-roles.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="education">
-{% capture md_section %}{% include content/education.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="team">
-{% capture md_section %}{% include content/team.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="teaching">
-{% capture md_section %}{% include content/teaching.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="projects">
-{% capture md_section %}{% include content/projects.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="journal-articles">
-{% capture md_section %}{% include content/journal-articles.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="conference-papers">
-{% capture md_section %}{% include content/conference-papers.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="lectures">
-{% capture md_section %}{% include content/lectures.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="awards">
-{% capture md_section %}{% include content/awards.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="languages">
-{% capture md_section %}{% include content/languages.md %}{% endcapture %}
-{{ md_section | markdownify }}
-</section></div></div></main><a href="#top" class="back-to-top" aria-label="Back to top" title="Back to top">↑ <span>Top</span></a><script src="script.js"></script>
-<script>
-  // Open links to other pages and documents in a new tab.
-  // Keep in-page navigation (e.g. #education) in the current tab.
-  document.querySelectorAll('a[href]').forEach(function (link) {
-    var href = link.getAttribute('href');
-    if (!href || href.startsWith('#') || /^(mailto:|tel:|javascript:)/i.test(href)) return;
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-  });
-</script></body></html>
+  </header>
+  <main id="main" class="shell">
+    {% if page.nav_key == 'home' %}
+      {% include intro.html %}
+      <nav class="mosaic" aria-label="Explore the academic website">
+        {% for item in site.data.navigation offset:1 %}
+        <article class="tile tile-{{ item.key }}">
+  <a class="tile-title" href="{{ item.url }}">{{ item.title }}</a>
+  {% if item.sections.size > 1 %}
+    <ul class="tile-sections">
+      {% for section in item.sections %}
+      <li><a href="{{ item.url }}#{{ section.id }}">{{ section.label }}</a></li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <span class="tile-description">{{ item.summary }}</span>
+  {% endif %}
+</article>
+        {% endfor %}
+      </nav>
+    {% else %}
+      {{ content }}
+    {% endif %}
+  </main>
+  <footer class="shell site-footer">
+    <span>Ricardo Monteiro</span>
+    <a href="#top">Back to top</a>
+  </footer>
+  {% unless page.nav_key == 'home' %}
+  <a class="back-to-top" href="#top" hidden>Back to top</a>
+  {% endunless %}
+</body>
+</html>

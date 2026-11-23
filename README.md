@@ -1,47 +1,24 @@
-# Academic CV — easy-edit GitHub Pages version
+# Ricardo Monteiro · Academic website
 
-This version uses **Jekyll**, which GitHub Pages builds automatically. You do not need to install Jekyll or run a build command.
+A multipage academic website built with Jekyll for GitHub Pages.
 
-## Editing content directly on GitHub
+## Edit the site
 
-1. In the repository, open `_includes/content/`.
-2. Click the relevant file, e.g. `projects.md` or `journal-articles.md`.
-3. Click the pencil icon, edit, and **Commit changes**.
-4. Wait 1–3 minutes for GitHub Pages to rebuild.
+- Edit the academic content in `_includes/content/`.
+- Edit the homepage profile, affiliations and contact information in `_includes/intro.html`.
+- Edit page labels, homepage descriptions and section order in `_data/navigation.yml`.
+- Edit the visual styles in `styles.css` and keep photographs and logos in `assets/`.
 
-Each CV section is a separate, plain-text **Markdown** file. All existing sections are included; you can add, remove, or reorder items.
+The pages use root-level HTML filenames so the site works at either a GitHub Pages domain or a project subpath. Keep these filenames when editing the navigation. To add a section, create a Markdown file in `_includes/content/` and add its filename stem and label to the appropriate page in `_data/navigation.yml`.
 
-Markdown examples:
+In the publication files, keep entry numbers in bold and leave a blank line between entries. Existing links can be updated directly in Markdown.
 
-    ## Research projects
+## Preview
 
-    - **2026** — A new research project with a [project link](https://example.org).
-    - **2025** — Another project.
+Open `index.html` in the separately supplied rendered preview. The preview works from an extracted folder.
 
-To add a new section, create `_includes/content/new-section.md`, then add a section block to `_layouts/default.html` following an existing section, and add a menu link if desired.
+If you already have Jekyll 3.10 installed, run `jekyll serve` from this repository and open the local address it prints.
 
-To hide a section, delete its `<section ...> ... </section>` block in `_layouts/default.html` (or remove its Markdown entries and menu link).
+## GitHub Pages
 
-## Other edits
-
-- **Name, intro, contact, menu, photo placement:** `_layouts/default.html`.
-- **CV section text:** `_includes/content/*.md`.
-- **Colours, fonts, spacing:** `styles.css`.
-- **Portrait and IUSS logo:** `assets/`.
-- **No downloadable DOCX:** The website is the online CV; no CV download link or DOCX file is included.
-
-## GitHub Pages setup
-
-Upload the **contents** of this ZIP into your repository root, keeping the `_includes` and `_layouts` folder names exactly. In **Settings → Pages**, choose **Deploy from a branch**, branch `main`, folder `/(root)`.
-
-**Important:** GitHub's upload interface may not overwrite files automatically in every workflow. Check that old `index.html` has been deleted: if both `index.html` and `index.md` exist, the old HTML page can take precedence. Remove the old `index.html` before publishing this version. Also remove any obsolete pages if you no longer want them publicly accessible.
-
-This design uses Jekyll's built-in Markdown support and no third-party plugins.
-
-## Publication numbering
-
-In the two publication Markdown files, keep the publication number as bold text at the start of each paragraph, e.g. `**100.** Authors, title...`. Leave a blank line between entries. This preserves original numbering instead of auto-numbering every entry as 1.
-
-
-## Journal article links
-Verified article links have been added to selected entries in `_includes/content/journal-articles.md`. Other entries remain unlinked until their exact publisher pages can be verified. Add links using `[Article page](https://doi.org/...)`.
+Once you decide to publish, place the repository contents at the configured GitHub Pages source. The site uses Jekyll's built-in Markdown and Liquid support. Keep the underscore-prefixed folders and avoid leaving an older `index.html` alongside `index.md` in the source.

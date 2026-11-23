@@ -1,4 +1,6 @@
 ---
 layout: default
-title: Academic CV
+title: Home
+nav_key: home
+permalink: "/index.html"
 ---
