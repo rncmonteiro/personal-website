@@ -51,6 +51,11 @@
   sections:
   - id: projects
     label: Research projects
+  contents:
+  - id: heading-ongoing-projects
+    label: Ongoing
+  - id: heading-past-projects
+    label: Past
 - key: teaching
   title: Teaching
   url: teaching.html
