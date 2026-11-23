@@ -126,7 +126,130 @@
   </div>
 </div>
 
-#### Past
+### PhD Students
+
+[S] Main Supervisor, [CS] Co-Supervisor
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/besim-yukselen.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
+    <strong>Besim Yukselen</strong> (Turkey) — PhD in Earthquake Engineering (ROSE)
+    <div style="margin-top:5px;">Multi-objective optimal retrofitting of existing buildings [S]</div>
+    <details style="margin:8px 0 0;">
+    <summary style="cursor:pointer;">5 journal articles · 7 conference papers</summary>
+    <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
+    <div style="margin:0 0 10px 12px;">
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2605583">98. Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering, 30(7), 1632-1657.</a></div>
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-026-02637-z">97. Couto, R., Mucedero, G., Yukselen, B., Bento, R., Monteiro, R. (2026) Storey loss and environmental impact functions for existing RC buildings, Bulletin of Earthquake Engineering, 24(11), 10667-10702.</a></div>
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.jobe.2026.117324">93. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Multi-objective optimisation for integrated seismic retrofitting decision making, Journal of Building Engineering, 131, 117324.</a></div>
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2541237">90. Yukselen, B., Mucedero, G., Monteiro, R. (2025) Evaluation and enhancement of optimisation algorithms for automated seismic retrofitting of existing buildings, Journal of Earthquake Engineering, 29(14), 2959–2992.</a></div>
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.rcns.2025.07.001">88. Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2025) Estimation of seismic downtime for building retrofitting decision-making, Resilient Cities and Structures, 4(3), 15-29.</a></div>
+    </div>
+    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
+    <div style="margin:0 0 10px 12px;">
+    <div style="margin:5px 0;">162. Mucedero, G., Yukselen, B., Monteiro, R. (2026) Developing fragility curves for seismically retrofitted Italian RC buildings. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany. (abstract only)</div>
+    <div style="margin:5px 0;">160. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Stochastic-based generation of retrofitted building fragility functions including retrofit design uncertainty. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
+    <div style="margin:5px 0;">159. Aydin, M.F., Yukselen, B., Mucedero, G., Monteiro, R. (2026) Evaluation and selection of seismic retrofit strategies for a pilotis RC building using multiple criteria. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
+    <div style="margin:5px 0;">151. [S] Yukselen, B., Mucedero, G., Monteiro, R. (2026) Optimising seismic retrofit design to reduce non-structural element losses using multiple objectives. Proceedings of the Sixth International Workshop on the Seismic Performance of Non-Structural Elements (SPONSE), March 11-13, Tokyo, Japan, 546-555.</div>
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.prostr.2025.12.249">149. Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2026) Downtime-based seismic assessment: insights from new and retrofitted RC buildings in Italy. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1959–1966.</a></div>
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.prostr.2025.12.247">146. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Enhancing Multi-Objective Seismic Retrofitting Design Through Optimisation. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1943–1950.</a></div>
+    <div style="margin:5px 0;">139. Yukselen, B., Mucedero, G., Monteiro, R. (2025) Multi-variable optimisation of building seismic retrofitting. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25255, 3602-3616.</div>
+    </div>
+    </details>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/ataklti-gebrehiwet.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
+    <strong>Ataklti Gebrehiwet</strong> (Ethiopia) — PhD in Earthquake Engineering (ROSE)
+    <div style="margin-top:5px;">Integrated retrofitting of deck-isolated bridges [S]</div>
+    <details style="margin:8px 0 0;">
+    <summary style="cursor:pointer;">1 journal article · 3 conference papers</summary>
+    <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
+    <div style="margin:0 0 10px 12px;">
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2026.2712444">100. Gebrekidan, A.G., Scattarreggia, N., Cogliano, M., Monteiro, R. (2026) Multi-Criteria RC Bridge Seismic Retrofitting considering Environmental Impact, Journal of Earthquake Engineering. In-Press.</a></div>
+    </div>
+    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
+    <div style="margin:0 0 10px 12px;">
+    <div style="margin:5px 0;">156. Gebrekidan, A.G., Scattarreggia, N., Monteiro, R. (2026) Estimating indirect economic loss and environmental impacts for different RC bridge seismic retrofitting strategies. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
+    <div style="margin:5px 0;">148. Gebrehiwet Gebrekidan, A., Scattarreggia, N., Monteiro, R. (2026) Multi-parameter evaluation of sustainable seismic retrofitting strategies for a three-span reinforced concrete bridge. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1665–1672.</div>
+    <div style="margin:5px 0;">135. Gebrehiwet Gebrekidan, A., Scattarreggia, N., Cogliano, M., Monteiro, R. (2025) Multi-criteria comparative assessment of seismic retrofitting interventions of an overpass RC bridge considering environmental impact. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25818, 1546–1560.</div>
+    </div>
+    </details>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/mehmet-firat-aydin.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
+    <strong>Mehmet Firat Aydin</strong> (Turkey) — PhD in Earthquake Engineering (ROSE)
+    <div style="margin-top:5px;">Large-scale seismic risk analysis and retrofitting decision-making [S]</div>
+    <details style="margin:8px 0 0;">
+    <summary style="cursor:pointer;">1 journal article · 3 conference papers</summary>
+    <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
+    <div style="margin:0 0 10px 12px;">
+    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-026-02718-z">96. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, 24(11), 10397-10426.</a></div>
+    </div>
+    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
+    <div style="margin:0 0 10px 12px;">
+    <div style="margin:5px 0;">159. Aydin, M.F., Yukselen, B., Mucedero, G., Monteiro, R. (2026) Evaluation and selection of seismic retrofit strategies for a pilotis RC building using multiple criteria. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
+    <div style="margin:5px 0;">155. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) Towards increased seismic resilience: a framework for informed retrofitting need estimates in Türkiye. Lecture Notes in Civil Engineering, 944, 414-422 (Proceedings of the International Conference on Resilience, Multi-risk Assessment and Monitoring (ICONREM 2026), June 16-19, Florence, Italy).</div>
+    <div style="margin:5px 0;">152. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) Estimating Integrated Seismic Risk in Türkiye. Proceedings of the 8th International Conference on Earthquake Engineering and Seismology (8ICEES), May 17-20, Kuşadası, Turkey.</div>
+    </div>
+    </details>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/vladimir-ramos-clemente.jpg" alt="Vladimir Ramos Clemente" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-start; margin:0; padding:0;">
+    <strong>Vladimir Ramos Clemente</strong> (Peru) — PhD in Earthquake Engineering (ROSE)
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/juan-diego-vargas.jpg" alt="Juan Diego Vargas" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-start; margin:0; padding:0;">
+    <strong>Juan Diego Vargas</strong> (Colombia) — PhD in Earthquake Engineering (ROSE)
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/maryam-saberdelsadeh.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
+    <strong>Maryam Saberdelsadeh</strong> (Iran) — PhD in Civil Engineering (University of Porto)
+    <div style="margin-top:5px;">Optimised displacement-based retrofitting of existing buildings with steel braces [CS]</div>
+    <details style="margin:8px 0 0;">
+    <summary style="cursor:pointer;">1 conference paper</summary>
+    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
+    <div style="margin:0 0 10px 12px;">
+    <div style="margin:5px 0;">157. Saberdelsadeh, M., Falcão Moreira, R., Monteiro, R., Castro, J.M. (2026) Influence of Infill Walls on the Seismic Response of RC Buildings Retrofitted with Steel Braces. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
+    </div>
+    </details>
+  </div>
+</div>
+
+### Master Students
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/ashi-a.jpg" alt="Antonio Ashi" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; color:var(--ink);">
+    <div>Antonio Ashi (Syria) — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)</div>
+    <div>Seismic downtime estimation for existing RC buildings</div>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/emilia-jativa.png" alt="Emilia Játiva" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; color:var(--ink);">
+    <div>Emilia Játiva (Ecuador) — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)</div>
+  </div>
+</div>
+
+## Alumni
+
+### Post-doctoral and Post-graduate Researchers
 
 <div style="margin:14px 0 22px;">
   <div style="border:0 !important;"><strong>Nicola Scattarreggia</strong> (Italy)
@@ -358,114 +481,8 @@
 
 ### PhD Students
 
-[S] Main Supervisor, [CS] Co-Supervisor
-
-#### Current
-
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
-  <img src="assets/besim-yukselen.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Besim Yukselen</strong> — PhD in Earthquake Engineering (ROSE)
-    <div style="margin-top:5px;">Multi-objective optimal retrofitting of existing buildings [S]</div>
-    <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">5 journal articles · 7 conference papers</summary>
-    <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
-    <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2605583">98. Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering, 30(7), 1632-1657.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-026-02637-z">97. Couto, R., Mucedero, G., Yukselen, B., Bento, R., Monteiro, R. (2026) Storey loss and environmental impact functions for existing RC buildings, Bulletin of Earthquake Engineering, 24(11), 10667-10702.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.jobe.2026.117324">93. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Multi-objective optimisation for integrated seismic retrofitting decision making, Journal of Building Engineering, 131, 117324.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2541237">90. Yukselen, B., Mucedero, G., Monteiro, R. (2025) Evaluation and enhancement of optimisation algorithms for automated seismic retrofitting of existing buildings, Journal of Earthquake Engineering, 29(14), 2959–2992.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.rcns.2025.07.001">88. Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2025) Estimation of seismic downtime for building retrofitting decision-making, Resilient Cities and Structures, 4(3), 15-29.</a></div>
-    </div>
-    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
-    <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;">162. Mucedero, G., Yukselen, B., Monteiro, R. (2026) Developing fragility curves for seismically retrofitted Italian RC buildings. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany. (abstract only)</div>
-    <div style="margin:5px 0;">160. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Stochastic-based generation of retrofitted building fragility functions including retrofit design uncertainty. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">159. Aydin, M.F., Yukselen, B., Mucedero, G., Monteiro, R. (2026) Evaluation and selection of seismic retrofit strategies for a pilotis RC building using multiple criteria. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">151. [S] Yukselen, B., Mucedero, G., Monteiro, R. (2026) Optimising seismic retrofit design to reduce non-structural element losses using multiple objectives. Proceedings of the Sixth International Workshop on the Seismic Performance of Non-Structural Elements (SPONSE), March 11-13, Tokyo, Japan, 546-555.</div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.prostr.2025.12.249">149. Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2026) Downtime-based seismic assessment: insights from new and retrofitted RC buildings in Italy. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1959–1966.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.prostr.2025.12.247">146. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Enhancing Multi-Objective Seismic Retrofitting Design Through Optimisation. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1943–1950.</a></div>
-    <div style="margin:5px 0;">139. Yukselen, B., Mucedero, G., Monteiro, R. (2025) Multi-variable optimisation of building seismic retrofitting. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25255, 3602-3616.</div>
-    </div>
-    </details>
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
-  <img src="assets/ataklti-gebrehiwet.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Ataklti Gebrehiwet</strong> — PhD in Earthquake Engineering (ROSE)
-    <div style="margin-top:5px;">Integrated retrofitting of deck-isolated bridges [S]</div>
-    <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">1 journal article · 3 conference papers</summary>
-    <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
-    <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2026.2712444">100. Gebrekidan, A.G., Scattarreggia, N., Cogliano, M., Monteiro, R. (2026) Multi-Criteria RC Bridge Seismic Retrofitting considering Environmental Impact, Journal of Earthquake Engineering. In-Press.</a></div>
-    </div>
-    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
-    <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;">156. Gebrekidan, A.G., Scattarreggia, N., Monteiro, R. (2026) Estimating indirect economic loss and environmental impacts for different RC bridge seismic retrofitting strategies. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">148. Gebrehiwet Gebrekidan, A., Scattarreggia, N., Monteiro, R. (2026) Multi-parameter evaluation of sustainable seismic retrofitting strategies for a three-span reinforced concrete bridge. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1665–1672.</div>
-    <div style="margin:5px 0;">135. Gebrehiwet Gebrekidan, A., Scattarreggia, N., Cogliano, M., Monteiro, R. (2025) Multi-criteria comparative assessment of seismic retrofitting interventions of an overpass RC bridge considering environmental impact. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25818, 1546–1560.</div>
-    </div>
-    </details>
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
-  <img src="assets/mehmet-firat-aydin.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Mehmet Firat Aydin</strong> — PhD in Earthquake Engineering (ROSE)
-    <div style="margin-top:5px;">Large-scale seismic risk analysis and retrofitting decision-making [S]</div>
-    <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">1 journal article · 3 conference papers</summary>
-    <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
-    <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-026-02718-z">96. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, 24(11), 10397-10426.</a></div>
-    </div>
-    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
-    <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;">159. Aydin, M.F., Yukselen, B., Mucedero, G., Monteiro, R. (2026) Evaluation and selection of seismic retrofit strategies for a pilotis RC building using multiple criteria. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">155. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) Towards increased seismic resilience: a framework for informed retrofitting need estimates in Türkiye. Lecture Notes in Civil Engineering, 944, 414-422 (Proceedings of the International Conference on Resilience, Multi-risk Assessment and Monitoring (ICONREM 2026), June 16-19, Florence, Italy).</div>
-    <div style="margin:5px 0;">152. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) Estimating Integrated Seismic Risk in Türkiye. Proceedings of the 8th International Conference on Earthquake Engineering and Seismology (8ICEES), May 17-20, Kuşadası, Turkey.</div>
-    </div>
-    </details>
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
-  <img src="assets/vladimir-ramos-clemente.jpg" alt="Vladimir Ramos Clemente" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-start; margin:0; padding:0;">
-    <strong>Vladimir Ramos Clemente</strong> — PhD in Earthquake Engineering (ROSE)
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
-  <img src="assets/juan-diego-vargas.jpg" alt="Juan Diego Vargas" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-start; margin:0; padding:0;">
-    <strong>Juan Diego Vargas</strong> — PhD in Earthquake Engineering (ROSE)
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
-  <img src="assets/maryam-saberdelsadeh.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Maryam Saberdelsadeh</strong> — PhD in Civil Engineering (University of Porto)
-    <div style="margin-top:5px;">Optimised displacement-based retrofitting of existing buildings with steel braces [CS]</div>
-    <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">1 conference paper</summary>
-    <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
-    <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;">157. Saberdelsadeh, M., Falcão Moreira, R., Monteiro, R., Castro, J.M. (2026) Influence of Infill Walls on the Seismic Response of RC Buildings Retrofitted with Steel Braces. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    </div>
-    </details>
-  </div>
-</div>
-
-#### Past
-
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Rita Couto</strong></div>
+  <div style="border:0 !important;"><strong>Rita Couto</strong> (Portugal)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Integrated seismic and energy performance of residential buildings [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">8 journal articles · 9 conference papers</summary>
@@ -496,7 +513,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Volkan Ozsarac</strong></div>
+  <div style="border:0 !important;"><strong>Volkan Ozsarac</strong> (Turkey)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">4 journal articles · 4 conference papers</summary>
@@ -518,7 +535,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Gianrocco Mucedero</strong></div>
+  <div style="border:0 !important;"><strong>Gianrocco Mucedero</strong> (Italy)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">23 journal articles · 37 conference papers</summary>
@@ -592,7 +609,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Davit Shahnazaryan</strong></div>
+  <div style="border:0 !important;"><strong>Davit Shahnazaryan</strong> (Armenia)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">2 journal articles · 3 conference papers</summary>
@@ -611,7 +628,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Andres Abarca</strong></div>
+  <div style="border:0 !important;"><strong>Andres Abarca</strong> (Costa Rica)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Seismic assessment of RC bridge infrastructure [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">6 journal articles · 12 conference papers</summary>
@@ -643,7 +660,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Carlotta Rodriquez</strong></div>
+  <div style="border:0 !important;"><strong>Carlotta Rodriquez</strong> (Italy)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes<br>A framework to assess disaster resilience based on sustainable development goals [CS]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">1 journal article</summary>
@@ -655,12 +672,12 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Jair Torres</strong></div>
+  <div style="border:0 !important;"><strong>Jair Torres</strong> (Colombia)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes<br>Crossing borders: A comparative assessment of community resilience to natural hazards in Arica, Chile and Tacna, Peru [CS]</div>
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Antonio Silva</strong></div>
+  <div style="border:0 !important;"><strong>Antonio Silva</strong> (Portugal)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Implications of earthquake-induced loss control in seismic design provisions [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">10 journal articles · 15 conference papers</summary>
@@ -699,7 +716,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Camilo Perdomo</strong></div>
+  <div style="border:0 !important;"><strong>Camilo Perdomo</strong> (Colombia)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Direct Economic Loss Assessment of Multi-Span Continuous RC Bridges under Seismic Hazard [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">5 journal articles · 6 conference papers</summary>
@@ -724,7 +741,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Annibale Vecere</strong></div>
+  <div style="border:0 !important;"><strong>Annibale Vecere</strong> (Italy)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes<br>Near Real-time Flood Loss Estimation as a Basis for Risk Financing Mechanisms [CS]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">2 journal articles · 7 conference papers</summary>
@@ -747,7 +764,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Yadong Jiang</strong></div>
+  <div style="border:0 !important;"><strong>Yadong Jiang</strong> (China)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Seismic assessment of composite frames with concrete-filled steel tube columns [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">4 journal articles · 9 conference papers</summary>
@@ -774,7 +791,7 @@
 </div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Claudia Zelaschi</strong></div>
+  <div style="border:0 !important;"><strong>Claudia Zelaschi</strong> (Italy)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Seismic assessment of spatially-distributed RC bridge portfolios [S]</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">3 journal articles · 7 conference papers</summary>
@@ -798,18 +815,6 @@
 </div>
 
 ### Master Students
-
-#### Current
-
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
-  <img src="assets/ashi-a.jpg" alt="Ashi A." width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; color:var(--ink);">
-    <div>Ashi. A. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)</div>
-    <div>Seismic downtime estimation for existing RC buildings</div>
-  </div>
-</div>
-
-#### Past
 
 <span style="color:var(--ink)">Christou. I. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)  
 Towards a Database of Fragility Functions for Retrofitted RC Buildings for Regional Analysis</span>
@@ -838,34 +843,34 @@ Evaluation of Risk Consistency of Force-Based and Displacement-Based Design Meth
 <span style="color:var(--ink)">Mora, A. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
 Evaluation of Risk Consistency of Force-Based and Displacement-Based Design Methods for Reinforced Concrete Moment Frames</span>
 
-<span style="color:var(--ink)">Akan, O. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
+<span style="color:var(--ink)">Akan, O. (Turkey) — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
 Establishing Displaced Shapes of Infilled RC Frames in Displacement-Based Design and Assessment</span>
 
 <span style="color:var(--ink)">Cripstyani, M. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
 Seismic Risk Assessment of Bridges in Indonesia</span>
 
-<span style="color:var(--ink)">Ahmed, S. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
+<span style="color:var(--ink)">Ahmed, S. (Pakistan) — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
 Large-Scale Seismic Risk Assessment and Definition of Retrofitting Strategies for RC Buildings</span>
 
-<span style="color:var(--ink)">Gonzalez, I. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+<span style="color:var(--ink)">Gonzalez, I. (Costa Rica) — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Implications of seismic design provisions on accelerations sensitive non-structural components due to earthquake loading</span>
 
-<span style="color:var(--ink)">Alvarez, L. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+<span style="color:var(--ink)">Alvarez, L. (Costa Rica) — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Effect of material mechanical property variability on seismic performance of steel frames</span>
 
-<span style="color:var(--ink)">Shahnazaryan, D. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+<span style="color:var(--ink)">Shahnazaryan, D. (Armenia) — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Comparison of earthquake-induced losses of reinforced concrete and steel frame buildings</span>
 
 <span style="color:var(--ink)">Rica, V. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
 Integrated Seismic Risk in Palestine</span>
 
-<span style="color:var(--ink)">Carofilis, W. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+<span style="color:var(--ink)">Carofilis, W. (Ecuador) — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Seismic Loss Assessment and Retrofitting Strategies of a RC School Building</span>
 
 <span style="color:var(--ink)">Bellotti, V. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Seismic assessment of low-rise masonry buildings in Groningen’s province (NL)</span>
 
-<span style="color:var(--ink)">Zampieri, S. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+<span style="color:var(--ink)">Zampieri, S. (Italy) — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Human-Induced Seismicity in Groningen: Prioritization of risk assessments and Resilience-Based Design</span>
 
 <span style="color:var(--ink)">Bagavasingam, T. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
@@ -889,7 +894,7 @@ Database of standards, practices and procedures for disaster risk reduction</spa
 <span style="color:var(--ink)">Sarchi, L. — MSc in Risk and Emergency Management  
 Numerical modeling of non-engineered structures</span>
 
-<span style="color:var(--ink)">Perdomo C. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+<span style="color:var(--ink)">Perdomo C. (Colombia) — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
 Use of Generalized Force Vectors for multi-mode pushover analysis of bridges</span>
 
 <span style="color:var(--ink)">Kalemi, B. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
@@ -901,7 +906,7 @@ Steel fibres reinforced concrete in static and dynamic conditions</span>
 <span style="color:var(--ink)">Qu, L. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
 Seismic performance of RC structures with mixed steel-FRP rebars</span>
 
-<span style="color:var(--ink)">Vecere, A. — MSc in Risk and Emergency Management  
+<span style="color:var(--ink)">Vecere, A. (Italy) — MSc in Risk and Emergency Management  
 Post Disaster Needs Assessment – Shelter structures</span>
 
 <span style="color:var(--ink)">Ejiofor, M. — MSc in Risk and Emergency Management  
@@ -910,7 +915,7 @@ Flood Risk Model for Nigeria</span>
 <span style="color:var(--ink)">Civiletti, G. — MSc in Risk and Emergency Management  
 Improved models for increased seismic risk awareness</span>
 
-<span style="color:var(--ink)">Jiang, Y. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+<span style="color:var(--ink)">Jiang, Y. (China) — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Sustainable High-Performance Concrete-Steel Tubular Columns for Seismic Areas</span>
 
 <span style="color:var(--ink)">Ahmed, K. — MSc in Risk and Emergency Management  
@@ -925,7 +930,7 @@ Reducing Disaster Risk through Promotion of Rights and Good Governance</span>
 <span style="color:var(--ink)">Zhang, X. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Different Approaches to Derive Analytical Fragility Functions of Bridges</span>
 
-<span style="color:var(--ink)">Zelaschi, C. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+<span style="color:var(--ink)">Zelaschi, C. (Italy) — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
 Systemic characterization of RC bridges for seismic loss assessment</span>
 
 <span style="color:var(--ink)">Sriwastava, A. — MSc in Risk and Emergency Management  
@@ -949,7 +954,7 @@ Wildfire Risk Assessment in Benishangul Gumuz Regional State of Ethiopia</span>
 <span style="color:var(--ink)">Carvalho, A. — MSc in Civil Engineering (University of Porto)  
 Seismic assessment of reinforced concrete bridges</span>
 
-<span style="color:var(--ink)">Sousa, L. — MSc in Civil Engineering (University of Porto)  
+<span style="color:var(--ink)">Sousa, L. (Portugal) — MSc in Civil Engineering (University of Porto)  
 Seismic assessment of reinforced concrete hollow pier bridges</span>
 
 <span style="color:var(--ink)">Ribeiro, R — MSc in Civil Engineering (University of Porto)  

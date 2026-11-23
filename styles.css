@@ -26,7 +26,8 @@ img { max-width: 100%; }
 .skip:focus { transform: none; z-index: 4; }
 .site-header { position: sticky; top: 0; z-index: 3; background: #fff; border-bottom: 1px solid var(--line); }
 .header-inner { min-height: 4.75rem; display: flex; align-items: center; justify-content: space-between; gap: .4rem 1.5rem; }
-.wordmark { font: bold 1.15rem var(--serif); white-space: nowrap; color: var(--navy); text-decoration: none; }
+.wordmark { display: inline-flex; align-items: center; gap: .65rem; font: bold 1.15rem var(--serif); white-space: nowrap; color: var(--navy); text-decoration: none; }
+.wordmark-portrait { width: 2.5rem; height: 2.5rem; object-fit: cover; border-radius: .25rem; }
 .header-inner nav { display: flex; flex-wrap: wrap; gap: .15rem 1.25rem; }
 .header-inner nav a { padding-block: .5rem; font-size: .9rem; text-decoration: none; color: var(--muted); }
 .header-inner nav a:hover, .header-inner nav [aria-current] { color: var(--dark); text-decoration: underline; text-underline-offset: .45em; }

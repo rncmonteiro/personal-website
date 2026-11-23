@@ -12,7 +12,12 @@
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="shell header-inner">
-      <a class="wordmark" href="index.html">Ricardo Monteiro</a>
+      <a class="wordmark" href="index.html">
+        {% unless page.nav_key == 'home' %}
+        <img class="wordmark-portrait" src="assets/portrait.jpg" alt="" width="40" height="40">
+        {% endunless %}
+        Ricardo Monteiro
+      </a>
       <nav aria-label="Main navigation">
         {% for item in site.data.navigation %}
         <a href="{{ item.url }}"{% if item.key == page.nav_key %} aria-current="page"{% endif %}>{{ item.title }}</a>
