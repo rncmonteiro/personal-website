@@ -1,5 +1,3 @@
-## Teaching
-
 - **03/2026** — Invited Lecturer, Technical Association for Building Industrialisation and Italian Association of Reinforced and Prestressed Concrete, Risk assessment and innovative reinforcement solutions for existing bridges, Module: “Multi-criteria decision-making for identification optimal retrofitting solutions”
 - **12/2022, 12/2023, 12/2024** — Invited Lecturer, ETH Zurich, Switzerland  Certificate in Advanced Studies in Seismic Assessment and Retrofitting, Module 3.9: “Integrated Assessment and Retrofitting Strategies”
 - **11/2023, 10/2021, 10/2019, 10/2017, 10–11/2015** — Invited Lecturer, Stellenbosch University, South Africa. MEng/PhD in Civil Engineering: one-week short course “Seismic Design of RC Buildings” (2015, 2017, 2019, 2021 and 2023). Additional practitioner short courses on “Seismic Design of RC Buildings”: Stellenbosch (one day in 2017; three days in 2019) and Johannesburg (one day in 2017; three days in 2019; one day in 2015).

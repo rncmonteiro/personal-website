@@ -36,3 +36,13 @@ if (backToTop) {
   backToTop.addEventListener('blur', updateBackToTop);
   updateBackToTop();
 }
+
+const siteHeader = document.querySelector('.site-header');
+if (siteHeader && 'ResizeObserver' in window) {
+  const syncHeaderHeight = () => {
+    document.documentElement.style.setProperty('--header-height', `${siteHeader.offsetHeight}px`);
+  };
+  syncHeaderHeight();
+  const headerObserver = new ResizeObserver(syncHeaderHeight);
+  headerObserver.observe(siteHeader);
+}

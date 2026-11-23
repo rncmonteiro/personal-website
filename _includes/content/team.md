@@ -1,5 +1,3 @@
-## Research Team
-
 ### Post-doctoral and Post-graduate Researchers
 
 <div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
