@@ -70,3 +70,10 @@
   sections:
   - id: lectures
     label: Keynote lectures and presentations
+- key: consultancy
+  title: Consultancy
+  url: consultancy.html
+  summary: Professional, entrepreneurial and consultancy activities
+  sections:
+  - id: consultancy
+    label: Consultancy
