@@ -11,7 +11,7 @@
     </ul>
   
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">23 journal articles · 37 conference papers</summary>
+    <summary style="cursor:pointer;">Post-doc publications · 17 journal articles · 27 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
       <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2605583">98. Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering, 30(7), 1632-1657.</a></div>
@@ -31,12 +31,6 @@
       <div style="margin:5px 0;"><a href="https://doi.org/10.3390/su16104318">80. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) Understanding the Impact of Seismic Hazard and Climate Conditions on Multi Criteria–Based Retrofitting of Existing Buildings, Sustainability, 16(10), 4318.</a></div>
       <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.ijdrr.2024.104341">79. Mucedero, G., Monteiro, R. (2024) An integrated regional prioritisation framework for seismic and energy-efficiency performance upgrading of residential buildings, International Journal of Disaster Risk Reduction, 103, 104341.</a></div>
       <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2023.2218491">78. Mucedero, G., Perrone, D., Monteiro, R. (2024) Generalised Storey Loss Functions for Seismic Loss Assessment of Italian Residential Buildings, Journal of Earthquake Engineering, 28(2), 451-474.</a></div>
-      <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.jobe.2023.107110">74. Purushothama, C., Mucedero, G., Perrone, D., Monteiro, R. (2023) Evaluation of rapid visual screening assessment of existing buildings using nonlinear numerical analysis, Journal of Building Engineering, 76, 107110.</a></div>
-      <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-022-01563-0">71. Mucedero, G., Perrone, D., Monteiro, R. (2023) Seismic risk assessment of masonry-infilled RC building portfolios: impact of variability in the infill properties, Bulletin of Earthquake Engineering, 21(2), 957-995.</a></div>
-      <div style="margin:5px 0;"><a href="https://doi.org/10.3390/app122312002">67. Mucedero, G., Perrone, D., Monteiro, R. (2022) Infill Variability and Modelling Uncertainty Implications on the Seismic Loss Assessment of an Existing RC Italian School Building, Applied Sciences, 12, 12002.</a></div>
-      <div style="margin:5px 0;"><a href="https://doi.org/10.1002/eqe.3748">66. Mucedero, G., Perrone, D., Monteiro, R. (2022) Epistemic uncertainty in poorly detailed existing frames accounting for masonry infill variability and RC shear failure, Earthquake Engineering and Structural Dynamics, 51(15), 3755-3778.</a></div>
-      <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-021-01068-2">49. Mucedero, G., Perrone, D., Monteiro, R. (2021) Nonlinear static characterisation of masonry-infilled RC building portfolios accounting for variability of infill properties, Bulletin of Earthquake Engineering, 19(6), 2597-2641.</a></div>
-      <div style="margin:5px 0;"><a href="https://doi.org/10.3390/buildings10100182">44. Mucedero, G., Perrone, D., Brunesi, E., Monteiro, R. (2020) Numerical Modelling and Validation of the Response of Masonry Infilled RC Frames Using Experimental Testing Results, Buildings, 10, 182.</a></div>
     </div>
     <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
     <div style="margin:0 0 10px 12px;">
@@ -67,16 +61,6 @@
       <div style="margin:5px 0;">123. Mucedero, G., Monteiro, R. (2024) Prioritisation of Italian residential buildings for seismic and energy performance upgrading. Proceedings of the 18th World Conference on Earthquake Engineering, Milan, Italy, June 30 – July 5.</div>
       <div style="margin:5px 0;">120. Calò, M., Scattarreggia, N., Mucedero, G., Monteiro, R., Parisi, F. (2024) Development of a bridge rating tool for optimised multi-hazard life-cycle-based maintenance. Bridge Maintenance Safety Management Digitalization and Sustainability. Proceedings of the 12th International Conference on Bridge Maintenance Safety and Management IABMAS 2024, Copenhagen, Denmark, June 24-28, 2840-2847.</div>
       <div style="margin:5px 0;">119. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) A framework for integrated retrofitting of existing buildings. Proceedings of the 13th National Conference in Seismology and Earthquake Engineering, Guimarães, Portugal, April 17-19.</div>
-      <div style="margin:5px 0;">116. [S] Mucedero, G., Monteiro, R. (2023) Prioritisation of Italian residential buildings for seismic and energy performance upgrading. Proceedings of the 7th International Conference on Earthquake Engineering and Seismology (7ICEES), Antalya, Turkey, November 6 – 10.</div>
-      <div style="margin:5px 0;">115. Mucedero, G., Couto, R., Monteiro, R. (2023) Seismic and energy performance upgrading of existing buildings in Italy: seismicity vs. climatic conditions. Proceedings of the Italian Regional Conference on Complex Systems (CSS/Italy 2023), Naples, Italy, October 9-11, 2023</div>
-      <div style="margin:5px 0;">113. Mucedero, G., Perrone, D., Monteiro, R. (2023) Improved seismic fragility and vulnerability curves for Italian existing masonry-infilled buildings. Proceedings of the SECED 2023 Conference, Cambridge, UK, September 14-15, 2023, Paper no. 147</div>
-      <div style="margin:5px 0;">112. Mucedero, G., Perrone, D., Monteiro, R. (2023) A preliminary methodology for multi-hazard risk assessment of large bridge portfolios using quantitative indicators. Proceedings of the 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland, July 9-13</div>
-      <div style="margin:5px 0;">109. Mucedero, G., Perrone, D., Monteiro, R. (2023) Developing storey loss functions for evaluation of seismic risk in Italian residential building typologies. COMPDYN - Proceedings of the 9th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece, June 12-14, 2023.</div>
-      <div style="margin:5px 0;">109. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2023) On the influence of climate and seismic hazard conditions in the identification of optimal retrofitting strategies for RC buildings. COMPDYN - Proceedings of the 9th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece, June 12-14, 2023</div>
-      <div style="margin:5px 0;">106. Mucedero, G., Perrone, D., Monteiro, R. (2022) Impact of masonry infill variability on the seismic demand of non-structural elements. Proceedings of the Fifth International Workshop on the Seismic Performance of Non-Structural Elements (SPONSE), December 5-7, 2022, Stanford, USA</div>
-      <div style="margin:5px 0;">104. Mucedero, G., Perrone, D., Monteiro, R. (2022) Epistemic uncertainty impact on seismic loss estimates of an Italian RC existing school building. Proceedings of the 3rd European Conference on Earthquake Engineering and Seismology, September 5-9, 2022, Bucharest, Romania</div>
-      <div style="margin:5px 0;">92. Mucedero, G., Perrone, D., Monteiro, R. (2021) Nonlinear static response of a masonry infilled RC building stock considering the variability of infill parameters. Proceedings of the 17th World Conference in Earthquake Engineering, Sendai, Japan, September 27 – October 2, Paper no. C002124.</div>
-      <div style="margin:5px 0;">89. Mucedero, G., Perrone, D., Brunesi, E., Monteiro, R. (2021) Impact of masonry infill variability on the estimation of floor response spectra in RC buildings. COMPDYN - Proceedings of the 8th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece, June 28-30, 2021.</div>
     </div>
   </details>
 </div>
@@ -252,7 +236,11 @@
 ### Post-doctoral and Post-graduate Researchers
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Nicola Scattarreggia</strong> (Italy)
+  <div style="border:0 !important;"><strong>Nicola Scattarreggia</strong> (Italy)</div>
+  <div style="margin:5px 0 0; padding:0;">
+    <div style="margin:3px 0; border:0 !important;">- Risk assessment and retrofitting of existing bridges</div>
+    <div style="margin:3px 0; border:0 !important;">- Multi-hazard vulnerability and robustness assessment of existing bridges</div>
+  </div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">5 journal articles · 19 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
@@ -287,18 +275,17 @@
     </div>
   </details>
 </div>
-  <div style="margin:5px 0 0; padding:0;">
-    <div style="margin:3px 0; border:0 !important;">- Risk assessment and retrofitting of existing bridges</div>
-    <div style="margin:3px 0; border:0 !important;">- Multi-hazard vulnerability and robustness assessment of existing bridges</div>
-  </div>
-</div>
 
 
 
 
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Andres Abarca Jimenez</strong> (Costa Rica)
+  <div style="border:0 !important;"><strong>Andres Abarca Jimenez</strong> (Costa Rica)</div>
+  <div style="margin:5px 0 0; padding:0;">
+    <div style="margin:3px 0; border:0 !important;">- Risk assessment and management of existing reinforced concrete bridges</div>
+    <div style="margin:3px 0; border:0 !important;">- Seismic vulnerability of residential buildings and reinforced concrete bridges in Algeria</div>
+  </div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">6 journal articles · 12 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
@@ -327,14 +314,10 @@
     </div>
   </details>
 </div>
-  <div style="margin:5px 0 0; padding:0;">
-    <div style="margin:3px 0; border:0 !important;">- Risk assessment and management of existing reinforced concrete bridges</div>
-    <div style="margin:3px 0; border:0 !important;">- Seismic vulnerability of residential buildings and reinforced concrete bridges in Algeria</div>
-  </div>
-</div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Giammaria Gabbianelli</strong> (Italy)
+  <div style="border:0 !important;"><strong>Giammaria Gabbianelli</strong> (Italy)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Review of seismic actions and design techniques</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">8 journal articles · 6 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
@@ -359,11 +342,10 @@
     </div>
   </details>
 </div>
-  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Review of seismic actions and design techniques</div>
-</div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Wilson Carofilis</strong> (Ecuador)
+  <div style="border:0 !important;"><strong>Wilson Carofilis</strong> (Ecuador)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Interventions to reduce seismic risk in existing buildings</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">6 journal articles · 4 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
@@ -384,11 +366,13 @@
     </div>
   </details>
 </div>
-  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Interventions to reduce seismic risk in existing buildings</div>
-</div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Gerard O’Reilly</strong> (Ireland)
+  <div style="border:0 !important;"><strong>Gerard O’Reilly</strong> (Ireland)</div>
+  <div style="margin:5px 0 0; padding:0;">
+    <div style="margin:3px 0; border:0 !important;">- Advanced assessment of seismic performance and collapse probability of existing masonry-infilled reinforced concrete buildings (Main supervisor: Prof. Rui Pinho, University of Pavia)</div>
+    <div style="margin:3px 0; border:0 !important;">- Risk analysis of critical infrastructure (Main supervisor: Prof. Michele Calvi, IUSS Pavia)</div>
+  </div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">20 journal articles · 14 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
@@ -433,14 +417,10 @@
     </div>
   </details>
 </div>
-  <div style="margin:5px 0 0; padding:0;">
-    <div style="margin:3px 0; border:0 !important;">- Advanced assessment of seismic performance and collapse probability of existing masonry-infilled reinforced concrete buildings (Main supervisor: Prof. Rui Pinho, University of Pavia)</div>
-    <div style="margin:3px 0; border:0 !important;">- Risk analysis of critical infrastructure (Main supervisor: Prof. Michele Calvi, IUSS Pavia)</div>
-  </div>
-</div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Iason Grigoratos</strong> (Greece)
+  <div style="border:0 !important;"><strong>Iason Grigoratos</strong> (Greece)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Integrated seismic vulnerability assessment of reinforced concrete buildings (Main supervisor: Dr. Paola Ceresa)</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">2 journal articles · 4 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
@@ -457,11 +437,10 @@
     </div>
   </details>
 </div>
-  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Integrated seismic vulnerability assessment of reinforced concrete buildings (Main supervisor: Dr. Paola Ceresa)</div>
-</div>
 
 <div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Vania Cerchiello</strong> (Italy)
+  <div style="border:0 !important;"><strong>Vania Cerchiello</strong> (Italy)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Mitigation of seismic risk in buildings (Main supervisor: Dr. Paola Ceresa)</div>
   <details style="margin:8px 0 0;">
     <summary style="cursor:pointer;">1 journal article · 3 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
@@ -475,8 +454,6 @@
       <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.proeng.2016.08.797">33. Grigoratos, I., Dabeek, J., Faravelli, M., Di Meo, A., Cerchiello, V., Borzi, B., Monteiro, R., Ceresa, P. (2016) Development of A Fragility and Exposure Model for Palestine - Application to the City of Nablus. Procedia Engineering, 161, 2023-2029.</a></div>
     </div>
   </details>
-</div>
-  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">- Mitigation of seismic risk in buildings (Main supervisor: Dr. Paola Ceresa)</div>
 </div>
 
 ### PhD Students
@@ -538,26 +515,9 @@
   <div style="border:0 !important;"><strong>Gianrocco Mucedero</strong> (Italy)</div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">23 journal articles · 37 conference papers</summary>
+    <summary style="cursor:pointer;">PhD publications · 6 journal articles · 10 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2605583">98. Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering, 30(7), 1632-1657.</a></div>
-    <div style="margin:5px 0;">99. Jusufi, L., Monteiro, R., Mucedero, G., Apostolska, R. (2026) Integrating social vulnerability and seismic risk mapping for nationwide retrofit prioritisation in North Macedonia, Bulletin of Earthquake Engineering, In-Press.</div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-026-02718-z">96. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, 24(11), 10397-10426.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-026-02637-z">97. Couto, R., Mucedero, G., Yukselen, B., Bento, R., Monteiro, R. (2026) Storey loss and environmental impact functions for existing RC buildings, Bulletin of Earthquake Engineering, 24(11), 10667-10702.</a></div>
-    <div style="margin:5px 0;"><a href="https://www.sciencedirect.com/science/article/pii/S2212420926004978">95. Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, M., Apostolska, R., Salic Makreska, R., Luka, R., Baballeku, M., Pitilakis, D. (2026) Seismic social vulnerability assessment in cross-border regions: application to Albania, Greece and North Macedonia, International Journal of Disaster Risk Reduction, 146, 106485.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.jobe.2026.117324">93. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Multi-objective optimisation for integrated seismic retrofitting decision making, Journal of Building Engineering, 131, 117324.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2541237">90. Yukselen, B., Mucedero, G., Monteiro, R. (2025) Evaluation and enhancement of optimisation algorithms for automated seismic retrofitting of existing buildings, Journal of Earthquake Engineering, 29(14), 2959–2992.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1177/87552930251335282">89. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2025) Priority analysis framework for equitable seismic and energy-efficiency renovation of residential buildings applied to mainland Portugal, Earthquake Spectra, 41(3), 1941-1976.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.rcns.2025.07.001">88. Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2025) Estimation of seismic downtime for building retrofitting decision-making, Resilient Cities and Structures, 4(3), 15-29.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.engstruct.2025.120187">87. Mucedero, G., Gabbianelli, G., Rapone, A., Monteiro, R. (2025) A practice-oriented methodology for seismic loss assessment of steel storage pallet racks, Engineering Structures, 333, 120187.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.jobe.2024.111399">85. Merino, R., Mucedero, G., Perrone, D., Filiatrault, A., Monteiro, R., Nascimbene, R. (2024) Influence of acceleration-sensitive non-structural element classification on seismic loss estimation of a case-study building in Italy, Journal of Building Engineering, 98, 111399.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2024.2382474">84. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) A practice-oriented approach for the seismic and energy performance upgrading of existing buildings, Journal of Earthquake Engineering, 28(15), 4380-4407.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-024-01961-6">82. Merino, R., Mucedero, G., Perrone, D., Monteiro, R., Aiello, M.A., Nascimbene, R. (2024) Estimation of consistent absolute acceleration and relative displacement floor response spectra in existing masonry‐infilled reinforced concrete buildings, Bulletin of Earthquake Engineering, 22(10), 5083-5118.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.ijdrr.2024.104668">81. Mucedero, G., Perrone, D., Monteiro (2024) Fragility and vulnerability models for poorly-detailed infilled buildings accounting for building-to-building and masonry infill variability, International Journal of Disaster Risk Reduction, 111, 104668.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.3390/su16104318">80. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) Understanding the Impact of Seismic Hazard and Climate Conditions on Multi Criteria–Based Retrofitting of Existing Buildings, Sustainability, 16(10), 4318.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.ijdrr.2024.104341">79. Mucedero, G., Monteiro, R. (2024) An integrated regional prioritisation framework for seismic and energy-efficiency performance upgrading of residential buildings, International Journal of Disaster Risk Reduction, 103, 104341.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2023.2218491">78. Mucedero, G., Perrone, D., Monteiro, R. (2024) Generalised Storey Loss Functions for Seismic Loss Assessment of Italian Residential Buildings, Journal of Earthquake Engineering, 28(2), 451-474.</a></div>
     <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.jobe.2023.107110">74. Purushothama, C., Mucedero, G., Perrone, D., Monteiro, R. (2023) Evaluation of rapid visual screening assessment of existing buildings using nonlinear numerical analysis, Journal of Building Engineering, 76, 107110.</a></div>
     <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-022-01563-0">71. Mucedero, G., Perrone, D., Monteiro, R. (2023) Seismic risk assessment of masonry-infilled RC building portfolios: impact of variability in the infill properties, Bulletin of Earthquake Engineering, 21(2), 957-995.</a></div>
     <div style="margin:5px 0;"><a href="https://doi.org/10.3390/app122312002">67. Mucedero, G., Perrone, D., Monteiro, R. (2022) Infill Variability and Modelling Uncertainty Implications on the Seismic Loss Assessment of an Existing RC Italian School Building, Applied Sciences, 12, 12002.</a></div>
@@ -567,33 +527,6 @@
     </div>
     <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
     <div style="margin:0 0 10px 12px;">
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1007/978-3-032-35104-3_103">165. Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, Pitilakis, D. (2026) Integration of social vulnerability for seismic risk assessment of Greece. Lecture Notes in Civil Engineering, 909, 887-895 (Proceedings of ReSBE 2026 – ReShaping the Built Environment through Sustainability and Circularity, October 20-23, Thessaloniki, Greece).</a></div>
-    <div style="margin:5px 0;">164. Borzi, B.; Di Meo, A.; Quaroni, D.; Bozzoni, F.; Salic Makreska, R.; Bojadjieva, J.; Edip, K.; Bogdanovic, A.; Capragoski, G.; Filipovski, D.; Neziri, Z.; Nanevska-Juloska, A.; Apostolska, R.; Gjorgjiev, I.; Riga, E.; Amendola, C., Pitilakis, D., Monteiro, R., Mucedero, G., Calò, M., Qirjazi, G., Luka, R., Dushi, E., Ktenidou, O.-J., Nikas, K., Stefanoski, S., Klajdi, N., Atanasovska, V., Jovanovski, V., Van Wijk, T., Zgjanjolli, R. (2026) EMERGE: A Web-Based Platform for Multi-Hazard Assessment and Early Crisis Response in the Cross-Border Region of North Macedonia, Albania, and Greece. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">163. Fracella, F., Perrone, D., Mucedero, G., Monteiro, R., Aiello, M.A. (2026) Developing seismic taxonomy and fragility models for elevated water tanks in supply networks. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">162. Mucedero, G., Yukselen, B., Monteiro, R. (2026) Developing fragility curves for seismically retrofitted Italian RC buildings. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany. (abstract only)</div>
-    <div style="margin:5px 0;">161. Salic Makreska, R., Gjorgjiev, I.; Bojadjieva, J., Apostolska, R., Sesov, V., Capragoski, G., Borzi, B.; Di Meo, A.; Bozzoni, F., Quaroni, D., Pitilakis, D., Baballëku, M., Monteiro, R., Mucedero, G., Calò, M., Ktenidou, O.-J., Stefanoski, S., Atanasovska, V., Klajdi, N., Jovanovski, V., Van Wijk, T., Zgjanjolli, R., Tomic, D., Neziri, Z. (2026) Near Real-Time Shaking Information to Resource Prioritisation in Cross-Border Regions. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">160. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Stochastic-based generation of retrofitted building fragility functions including retrofit design uncertainty. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">159. Aydin, M.F., Yukselen, B., Mucedero, G., Monteiro, R. (2026) Evaluation and selection of seismic retrofit strategies for a pilotis RC building using multiple criteria. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">158. Amendola, C., Riga, E., Pitilakis, D., Monteiro, R., Mucedero, G., Calò, M., Luka, R., Apostolska, R., Salic Makreska, R., Zlateski, A., Zurovski, A., Chapragoski, G., Delova, E., Tomic, D., Di Meo, A., Bozzoni, F., Borzi, B., Stefanoski, S., Ktenidou, O.-J., Klajdi, N., Atanasovska, V., Zgjanjolli, R. (2026) Assessing Social Vulnerability to Natural Hazards in Cross-Border Regions: The EMERGE Project. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
-    <div style="margin:5px 0;">155. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) Towards increased seismic resilience: a framework for informed retrofitting need estimates in Türkiye. Lecture Notes in Civil Engineering, 944, 414-422 (Proceedings of the International Conference on Resilience, Multi-risk Assessment and Monitoring (ICONREM 2026), June 16-19, Florence, Italy).</div>
-    <div style="margin:5px 0;">153. Mucedero, G., Perrone, D., Tondo, G., Monteiro, R., Micelli, F. (2026) Bilinear Idealised Capacity Curves of Existing Italian Masonry Buildings. Proceedings of the REHABEND 2026 Congress, May 26-29, Bilbao, Spain, Paper no. 320, 866-875.</div>
-    <div style="margin:5px 0;">152. Aydin, M.F., Mucedero, G., Monteiro, R. (2026) Estimating Integrated Seismic Risk in Türkiye. Proceedings of the 8th International Conference on Earthquake Engineering and Seismology (8ICEES), May 17-20, Kuşadası, Turkey.</div>
-    <div style="margin:5px 0;">151. [S] Yukselen, B., Mucedero, G., Monteiro, R. (2026) Optimising seismic retrofit design to reduce non-structural element losses using multiple objectives. Proceedings of the Sixth International Workshop on the Seismic Performance of Non-Structural Elements (SPONSE), March 11-13, Tokyo, Japan, 546-555.</div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.prostr.2025.12.249">149. Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2026) Downtime-based seismic assessment: insights from new and retrofitted RC buildings in Italy. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1959–1966.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.prostr.2025.12.248">147. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2026) An integrated regional prioritisation framework for seismic retrofitting of residential buildings. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1951–1958.</a></div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.prostr.2025.12.247">146. Yukselen, B., Mucedero, G., Monteiro, R. (2026) Enhancing Multi-Objective Seismic Retrofitting Design Through Optimisation. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1943–1950.</a></div>
-    <div style="margin:5px 0;">141. Calò, M., Mucedero, G., Monteiro, R. (2025) Integrazione di modelli BIM e simulazione esplicita mediante AEM per la valutazione del rischio sismico: proposta metodologica. Proceedings of the IF CRASC '25 Italian Conference in Forensic Engineering, Collapses, Structural Reliability and Consolidation, Naples, Italy, July 15-17.</div>
-    <div style="margin:5px 0;"><a href="https://doi.org/10.7712/120125.12459.25259">140. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2025) Developing storey loss functions for Portuguese RC buildings. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25259, 928-939.</a></div>
-    <div style="margin:5px 0;">139. Yukselen, B., Mucedero, G., Monteiro, R. (2025) Multi-variable optimisation of building seismic retrofitting. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25255, 3602-3616.</div>
-    <div style="margin:5px 0;">138. Mucedero, G., Gabbianelli, G., Monteiro, R. (2025) Seismic loss estimation of steel pallet racks. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25388, 3032–3043.</div>
-    <div style="margin:5px 0;">132. Mucedero, G., Rapone, A., Monteiro, R., Gabbianelli, G., Ciucci, M. (2024) Simplified seismic loss assessment of steel storage pallet racks. Proceedings of the XXIX Congresso del Collegio dei Tecnici dell’Acciaio (CTA 2024), Le giornate italiane della Costruzione in Acciaio, Milan, Italy, September 26-28.</div>
-    <div style="margin:5px 0;">131. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) A simplified approach for seismic and energy performance upgrading of existing buildings. Proceedings of the 18th World Conference on Earthquake Engineering, Milan, Italy, June 30 – July 5.</div>
-    <div style="margin:5px 0;">129. Merino, R., Mucedero, G., Perrone, D., Monteiro, R., Filiatrault, A., Nascimbene, R. (2024) Effect of non-structural element seismic classification in seismic loss estimation. Proceedings of the 18th World Conference on Earthquake Engineering, Milan, Italy, June 30 – July 5.</div>
-    <div style="margin:5px 0;">126. Scattarreggia, N., Calò, M., Mucedero, G., Monteiro, R. (2024) A bridge rating web tool for optimised management. Proceedings of the 18th World Conference on Earthquake Engineering, Milan, Italy, June 30 – July 5.</div>
-    <div style="margin:5px 0;">124. Mucedero, G., Monteiro, R. (2024) Implications of masonry infill-related variability on the seismic risk assessment of existing RC buildings. Proceedings of the 18th World Conference on Earthquake Engineering, Milan, Italy, June 30 – July 5.</div>
-    <div style="margin:5px 0;">123. Mucedero, G., Monteiro, R. (2024) Prioritisation of Italian residential buildings for seismic and energy performance upgrading. Proceedings of the 18th World Conference on Earthquake Engineering, Milan, Italy, June 30 – July 5.</div>
-    <div style="margin:5px 0;">120. Calò, M., Scattarreggia, N., Mucedero, G., Monteiro, R., Parisi, F. (2024) Development of a bridge rating tool for optimised multi-hazard life-cycle-based maintenance. Bridge Maintenance Safety Management Digitalization and Sustainability. Proceedings of the 12th International Conference on Bridge Maintenance Safety and Management IABMAS 2024, Copenhagen, Denmark, June 24-28, 2840-2847.</div>
-    <div style="margin:5px 0;">119. Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) A framework for integrated retrofitting of existing buildings. Proceedings of the 13th National Conference in Seismology and Earthquake Engineering, Guimarães, Portugal, April 17-19.</div>
     <div style="margin:5px 0;">116. [S] Mucedero, G., Monteiro, R. (2023) Prioritisation of Italian residential buildings for seismic and energy performance upgrading. Proceedings of the 7th International Conference on Earthquake Engineering and Seismology (7ICEES), Antalya, Turkey, November 6 – 10.</div>
     <div style="margin:5px 0;">115. Mucedero, G., Couto, R., Monteiro, R. (2023) Seismic and energy performance upgrading of existing buildings in Italy: seismicity vs. climatic conditions. Proceedings of the Italian Regional Conference on Complex Systems (CSS/Italy 2023), Naples, Italy, October 9-11, 2023</div>
     <div style="margin:5px 0;">113. Mucedero, G., Perrone, D., Monteiro, R. (2023) Improved seismic fragility and vulnerability curves for Italian existing masonry-infilled buildings. Proceedings of the SECED 2023 Conference, Cambridge, UK, September 14-15, 2023, Paper no. 147</div>
